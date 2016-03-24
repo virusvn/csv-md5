@@ -1,0 +1,16 @@
+{
+  "name": "csv-md5",
+  "version": "0.0.1",
+  "description": "convert one column to md5 string from csv file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nhan Nguyen <nxtnhan@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "command-line-args": "^2.1.6",
+    "csv": "^0.4.6",
+    "md5": "^2.1.0"
+  }
+}

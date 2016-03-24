@@ -1,0 +1,9 @@
+### CSV md5
+Convert a column to md5 then add to last
+
+#### How to use
+Convert column 2:
+csv-md5 -f "your-file.csv" -o "output.csv" -c 2
+
+#### TODO
+Create test :)
